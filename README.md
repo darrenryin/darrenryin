@@ -1,5 +1,3 @@
-DARREN R. YIN
-
-**Don't repeat yourself.**
+**DARREN R. YIN** (Don't repeat yourself.)
 
 All in AI.
