@@ -1,3 +1,3 @@
-**DARREN R. YIN** (Don't repeat yourself.)
+**Don't repeat yourself.**
 
 All in AI.
